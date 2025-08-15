@@ -1,0 +1,10 @@
+[package]
+name = "binance-fix44-order-entry"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+quickfix = "0.2.0"
+
+[build-dependencies]
+quickfix-msg-gen = "0.2.0"
