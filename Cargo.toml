@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["binance-fix-example","binance-fix-utils", "binance-fix44-order-entry"]
